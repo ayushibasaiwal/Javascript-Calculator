@@ -1,0 +1,48 @@
+#container
+{
+    width:400px;
+    height:480px;
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 50px;
+    background-color: #9c8f9b;;
+    border:10px solid black
+}
+#mainhead
+{
+    text-align: center;
+    font-size: 32px;
+    color: #30bb95;
+    font-family: 'Grandstander', cursive;
+}
+#display{
+    padding: 12px;
+    display: block;
+    width: 320px;
+    margin:25px auto;
+    font-size: 25px;
+    
+}
+#table
+{
+    width:320px;
+    margin:50px auto;
+}
+#table button{
+
+    width: 65px;
+    margin:5px;
+    height: 45px;
+    font-size: 25px;
+    background-color: #0c0c0c;
+    color: #f3eeee;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+#table button:hover{
+
+    background-color:#000000;
+    color: #c77272;;
+}
